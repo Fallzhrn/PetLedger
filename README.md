@@ -103,6 +103,5 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 
 **Function Execution:**
 ![Invoke Screenshot](testnet-invoke.png)
----
 
 **Stellar PetCare DApp** - Securing Your Pet's Care on the Blockchain
