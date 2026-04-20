@@ -96,6 +96,13 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 - `get_services()` - Retrieve all stored service requests from the contract.
 - `cancel_service()` - Remove or cancel a specific service order by its ID.
 
+## Testnet Deployment Screenshots
+
+**Contract Deployment:**
+![Deploy Screenshot](testnet-deploy.png)
+
+**Function Execution:**
+![Invoke Screenshot](testnet-invoke.png)
 ---
 
 **Stellar PetCare DApp** - Securing Your Pet's Care on the Blockchain
